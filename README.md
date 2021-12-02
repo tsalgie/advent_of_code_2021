@@ -1,10 +1,10 @@
 # Advent of Code 2021
 Maybe this year I can save Santa. [Advent of Code 2021](https://adventofcode.com/2021)
 
-Each solution will accept the provided input from the file **input.txt**, and write to **output.txt**.
+Each solution will accept the provided input from the file **input.txt**, and print the results to stdout.
 
 ### Solutions
---- Day 1: [????](https://github.com/tsalgie/advent_of_code_2021/blob/main/01/puzzle.py) ---
+--- Day 1: [Sonar Sweep](https://github.com/tsalgie/advent_of_code_2021/blob/main/01/puzzle.py) ---
 
 --- Day 2: [????](https://github.com/tsalgie/advent_of_code_2021/blob/main/02/puzzle.py) ---
 
