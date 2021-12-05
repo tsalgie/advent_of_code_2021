@@ -6,11 +6,11 @@ Each solution will accept the provided input from the file **input.txt**, and pr
 ### Solutions
 --- Day 1: [Sonar Sweep](https://github.com/tsalgie/advent_of_code_2021/blob/main/01/puzzle.py) ---
 
---- Day 2: [????](https://github.com/tsalgie/advent_of_code_2021/blob/main/02/puzzle.py) ---
+--- Day 2: [Dive!](https://github.com/tsalgie/advent_of_code_2021/blob/main/02/puzzle.py) ---
 
---- Day 3: [????](https://github.com/tsalgie/advent_of_code_2021/blob/main/03/puzzle.py) ---
+--- Day 3: [Binary Diagnostic](https://github.com/tsalgie/advent_of_code_2021/blob/main/03/puzzle.py) ---
 
---- Day 4: [????](https://github.com/tsalgie/advent_of_code_2021/blob/main/04/puzzle.py) ---
+--- Day 4: [Giant Squid](https://github.com/tsalgie/advent_of_code_2021/blob/main/04/puzzle.py) ---
 
 --- Day 5: [????](https://github.com/tsalgie/advent_of_code_2021/blob/main/05/puzzle.py) ---
 
