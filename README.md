@@ -12,9 +12,9 @@ Each solution will accept the provided input from the file **input.txt**, and pr
 
 --- Day 4: [Giant Squid](https://github.com/tsalgie/advent_of_code_2021/blob/main/04/puzzle.py) ---
 
---- Day 5: [????](https://github.com/tsalgie/advent_of_code_2021/blob/main/05/puzzle.py) ---
+--- Day 5: [Hydrothermal Venture](https://github.com/tsalgie/advent_of_code_2021/blob/main/05/puzzle.py) ---
 
---- Day 6: [????](https://github.com/tsalgie/advent_of_code_2021/blob/main/06/puzzle.py) ---
+--- Day 6: [Lanternfish](https://github.com/tsalgie/advent_of_code_2021/blob/main/06/puzzle.py) ---
 
 --- Day 7: [????](https://github.com/tsalgie/advent_of_code_2021/blob/main/07/puzzle.py) ---
 
